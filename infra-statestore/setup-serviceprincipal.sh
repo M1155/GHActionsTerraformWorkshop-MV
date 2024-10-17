@@ -3,7 +3,7 @@
 
 
 # Define variable for display name
-DISPLAY_NAME="workshopmv-master-oidc"
+DISPLAY_NAME="anuworkshopmv-master-oidc"
 # Define variables for name and subject
 FEDERATED_IDENTITY_NAME="workshop-mv-master-federated-identity"
 FEDERATED_IDENTITY_SUBJECT="repo:M1155/GHActionsTerraformWorkshop-MV:ref:refs/heads/master"
