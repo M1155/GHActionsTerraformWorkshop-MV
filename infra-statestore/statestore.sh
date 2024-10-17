@@ -2,8 +2,8 @@
 
 # Variables
 RESOURCE_GROUP_NAME="tfstate-rg"
-STORAGE_ACCOUNT_NAME="tfstatewai"
-CONTAINER_NAME="actionsworkshop"
+STORAGE_ACCOUNT_NAME="anuworkshop"
+CONTAINER_NAME="workshop-mv"
 LOCATION="australiaeast"  # You can change this to your preferred Azure region
 
 # Create Resource Group
